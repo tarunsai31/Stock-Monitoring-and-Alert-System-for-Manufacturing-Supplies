@@ -1,0 +1,11 @@
+[
+  { "product_id": "M001", "name": "Lubricant Oil", "quantity": 4 },
+  { "product_id": "M002", "name": "Hydraulic Fluid", "quantity": 12 },
+  { "product_id": "M003", "name": "Paint (Blue)", "quantity": 7 },
+  { "product_id": "M004", "name": "Machine Belt", "quantity": 2 },
+  { "product_id": "M005", "name": "Coolant", "quantity": 10 },
+  { "product_id": "M006", "name": "Grease", "quantity": 6 },
+  { "product_id": "M007", "name": "Welding Rod", "quantity": 3 },
+  { "product_id": "M008", "name": "Screws (Box)", "quantity": 20 },
+  { "product_id": "M009", "name": "Bearings", "quantity": 9 }
+]
