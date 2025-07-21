@@ -1,0 +1,1 @@
+# Stock-Monitoring-and-Alert-System-for-Manufacturing-Supplies
